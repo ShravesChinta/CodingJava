@@ -1,6 +1,13 @@
 
 /**
 
+This question can be solved in two ways:
+
+1) Using iterative method- bfs level order traversal method
+2) Recursive way
+
+This is using bfs method
+
 Given a binary tree, find its minimum depth.
 
 The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
